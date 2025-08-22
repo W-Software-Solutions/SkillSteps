@@ -21,7 +21,7 @@ export default function Header() {
         </motion.div>
         <div className="text-center">
           <h1 className="text-4xl font-bold neon-text mb-2">
-            SkillPath
+            SkillSteps
           </h1>
           <p className="text-gray-400 text-lg">
             AI-Powered Learning Roadmaps for Your Success
@@ -31,3 +31,4 @@ export default function Header() {
     </motion.header>
   );
 }
+
