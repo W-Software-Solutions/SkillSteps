@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SkillPath - AI-Powered Learning Roadmaps",
+  title: "SkillSteps - AI-Powered Learning Roadmaps",
   description: "Generate personalized learning roadmaps with AI-powered recommendations and curated video content.",
 };
 
